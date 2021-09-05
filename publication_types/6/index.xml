@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 on Marco Fratarcangeli</title>
+    <link>http://www.cse.chalmers.se/~marcof/publication_types/6/</link>
+    <description>Recent content in 6 on Marco Fratarcangeli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 14 Feb 2011 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="http://www.cse.chalmers.se/~marcof/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comparing GLSL, OpenCL and CUDA: cloth simulation on the GPU</title>
+      <link>http://www.cse.chalmers.se/~marcof/publication/geg2011/</link>
+      <pubDate>Mon, 14 Feb 2011 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/publication/geg2011/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>A Versatile and Interactive Anatomical Human Face Model</title>
+      <link>http://www.cse.chalmers.se/~marcof/publication/gpg2010/</link>
+      <pubDate>Mon, 01 Mar 2010 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/publication/gpg2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

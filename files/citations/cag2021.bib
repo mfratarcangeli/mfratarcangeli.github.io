@@ -1,0 +1,13 @@
+@article{RONNOW202136,
+title = {Fast analytical motion blur with transparency},
+journal = {Computers & Graphics},
+volume = {95},
+pages = {36-46},
+year = {2021},
+issn = {0097-8493},
+doi = {https://doi.org/10.1016/j.cag.2021.01.006},
+url = {https://www.sciencedirect.com/science/article/pii/S0097849321000066},
+author = {Mads J.L. Rønnow and Ulf Assarsson and Marco Fratarcangeli},
+keywords = {Real-time rendering, Motion blur, Parallel computing},
+abstract = {We introduce a practical parallel technique to achieve real-time motion blur for textured and semi-transparent triangles with high accuracy using modern commodity GPUs. In our approach, moving triangles are represented as prisms. Each prism is bounded by the initial and final position of the triangle during one animation frame and three bilinear patches on the sides. Each prism covers a number of pixels for a certain amount of time according to its trajectory on the screen. We efficiently find, store and sort the list of prisms covering each pixel including the amount of time the pixel is covered by each prism. This information, together with the color, texture, normal, and transparency of the pixel, is used to resolve its final color. We demonstrate the performance, scalability, and generality of our approach in a number of test scenarios, showing that it achieves a visual quality practically indistinguishable from the ground truth in a matter of just a few milliseconds, including rendering of textured and transparent objects. A supplementary video has been made available online.11Supplementary video available here}
+}

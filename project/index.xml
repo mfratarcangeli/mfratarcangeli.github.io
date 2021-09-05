@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Marco Fratarcangeli</title>
+    <link>http://www.cse.chalmers.se/~marcof/project/</link>
+    <description>Recent content in Projects on Marco Fratarcangeli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 03 May 2018 14:08:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.cse.chalmers.se/~marcof/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Parallel Algorithms for Interactive Simulations of 3D Soft Tissues</title>
+      <link>http://www.cse.chalmers.se/~marcof/project/stint2018/</link>
+      <pubDate>Thu, 03 May 2018 14:08:38 +0200</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/project/stint2018/</guid>
+      <description>Simulations of soft bodies (e.g., surgical threads, different kinds of human tissues or organs), which are at the same time interactive and accurate. For instance, in a virtual surgical simulation system, soft tissues need to be manipulated by the medical students in real-time to deliver a realistic and useful learning experience. We intend to initiate a collaboration between Chalmers University of Technology (CTH) and University of New Mexico (UNM) to develop a technology which will result in an affordable simulation platform from both a financial and a computational point of view, and will be suitable for large-scale, geometry-complex, and nonlinear deformable models useful in the medical, and more in general, industrial areas.</description>
+    </item>
+    
+    <item>
+      <title>Interactive 3D deformable bodies</title>
+      <link>http://www.cse.chalmers.se/~marcof/project/vr2015/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/project/vr2015/</guid>
+      <description>This project is about designing new data structures and algorithms to obtain more accurate animations of deformable bodies in real-time. This will be achieved by leveraging the computational capabilities of the graphics cards mounted on consumer-class PCs (GPUs). These devices have been designed to handle millions of pixels in parallel; recently they have been modified to compute generic scientific data and have proven to achieve 10X – 100X speed ups compared with the most recent CPUs.</description>
+    </item>
+    
+    <item>
+      <title>Surgical threads simulations based on a novel information-theory approach</title>
+      <link>http://www.cse.chalmers.se/~marcof/project/qnrf2012/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/project/qnrf2012/</guid>
+      <description>Texas A&amp;amp;M University at Qatar in partnership with surgeons from Cornell Weill Medical School at Qatar is proposing a research program aimed at creating a physics-based software that will predict the deformation of surgical threads when subjected to conditions commonly encountered during surgery. Of particular interest is be the study of thread tangling, a non-linear and dynamical process detrimental to surgeons during knot formation. The software will use the Cosserat theory of elasticity, a theory particularly suited to describe long and thin flexible structures which take spiral-type configurations in addition to bend and twist.</description>
+    </item>
+    
+  </channel>
+</rss>

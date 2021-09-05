@@ -1,0 +1,14 @@
+@inproceedings{Pellacini,
+author = {Fratarcangeli, Marco and Pellacini, Fabio},
+institution = {Sapienza University of Rome, Italy},
+institution = {Sapienza University of Rome, Italy},
+booktitle = {Proceedings of SIGRAD 2014, Visual Computing, June 12-13, 2014, Göteborg, Sweden},
+number = {106},
+pages = {25-31},
+publisher = {Linköping University Electronic Press, Linköpings universitet},
+title = {Towards a Massively Parallel Solver for Position Based Dynamics},
+year = {2014},
+issn = {1650-3740},
+keywords = {},
+abstract = {Position-based dynamics (PBD) is an efficient and robust method for animating soft bodies, rigid bodies and fluids. Recently, this method gained popularity in the computer animation community because it is relatively easy to implement while still being able to synthesize believable results at interactive rate. The animated bodies are modeled by using a large set of linearized geometrical constraints which are iteratively solved using a sequential Gauss-Seidel method on a single core CPU. However, when the animated scene involves a large number of objects, solving the constraints sequentially one after the other makes the computation of the motion too slow and not suitable for interactive applications. In this paper, we present a massively parallel implementation of position based dynamics which runs on the local GPU. In the initialization phase, the linearized geometrical constraints are divided in independent clusters using a fast, greedy coloring graph algorithm. Then, during the animation, the constraints belonging to each cluster are solved in parallel on the GPU. We employ an efficient simulation pipeline using a memory layout which favor both the memory access time for computation and batching for visualization. Our experiments show that the performance speed-up of our parallel implementation is several orders of magnitude faster than its serial counterpart.}
+}

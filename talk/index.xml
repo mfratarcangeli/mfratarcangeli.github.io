@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Marco Fratarcangeli</title>
+    <link>http://www.cse.chalmers.se/~marcof/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Marco Fratarcangeli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.cse.chalmers.se/~marcof/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Accurate Elastic Bodies in Real-time</title>
+      <link>http://www.cse.chalmers.se/~marcof/talk/unm2018/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/talk/unm2018/</guid>
+      <description>Invited by Yin Yang</description>
+    </item>
+    
+    <item>
+      <title>Fast, Interactive Deformable Bodies</title>
+      <link>http://www.cse.chalmers.se/~marcof/talk/iccv2017/</link>
+      <pubDate>Mon, 30 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/talk/iccv2017/</guid>
+      <description>Invited by Fiora Pirri.</description>
+    </item>
+    
+    <item>
+      <title>Sustainability in the digital world</title>
+      <link>http://www.cse.chalmers.se/~marcof/talk/is4si2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/talk/is4si2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive Solving of Large and Sparse Linear Systems</title>
+      <link>http://www.cse.chalmers.se/~marcof/talk/barbados2017/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+      
+      <guid>http://www.cse.chalmers.se/~marcof/talk/barbados2017/</guid>
+      <description>Invited by Paul Kry.</description>
+    </item>
+    
+  </channel>
+</rss>
