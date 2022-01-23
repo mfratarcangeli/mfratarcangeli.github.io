@@ -2,157 +2,157 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Marco Fratarcangeli</title>
-    <link>http://www.cse.chalmers.se/~marcof/publication_types/2/</link>
+    <link>https://mfratarcangeli.github.io/publication_types/2/</link>
     <description>Recent content in 2 on Marco Fratarcangeli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://www.cse.chalmers.se/~marcof/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mfratarcangeli.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fast Analytical Motion Blur with Transparency</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cag2021/</link>
+      <link>https://mfratarcangeli.github.io/publication/cag2021/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cag2021/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cag2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Nonlinear Least Squares Optimization of Large-scale Semi-sparse Problems</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/eg2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/eg2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/eg2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/eg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive Sculpting of Digital Faces Using an Anatomical Modeling Paradigm</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sgp2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/sgp2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sgp2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sgp2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medial Elastics: Efficient and Collision-ready Deformation via Medial Axis Transform</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/tog2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/tog2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/tog2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/tog2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Parallel Multigrid for Nonlinear Cloth Simulation</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/pg2018/</link>
+      <link>https://mfratarcangeli.github.io/publication/pg2018/</link>
       <pubDate>Fri, 31 Aug 2018 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/pg2018/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/pg2018/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Multivariate Gaussian-based Inverse Kinematics</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cgf2017/</link>
+      <link>https://mfratarcangeli.github.io/publication/cgf2017/</link>
       <pubDate>Mon, 17 Apr 2017 10:23:24 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cgf2017/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cgf2017/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Real time simulation of inextensible surgical thread using a Kirchhoff rod model with force output for haptic feedback applications</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/ijsolstr2017/</link>
+      <link>https://mfratarcangeli.github.io/publication/ijsolstr2017/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/ijsolstr2017/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/ijsolstr2017/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Vivace: a Practical Gauss-Seidel Method for Stable Soft Body Dynamics</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sigasia2016/</link>
+      <link>https://mfratarcangeli.github.io/publication/sigasia2016/</link>
       <pubDate>Wed, 16 Nov 2016 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sigasia2016/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sigasia2016/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Inverse kinematics using dynamic joint parameters: inverse kinematics animation synthesis learnt from sub-divided motion micro-segments</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/tvc2017/</link>
+      <link>https://mfratarcangeli.github.io/publication/tvc2017/</link>
       <pubDate>Thu, 04 Aug 2016 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/tvc2017/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/tvc2017/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Scalable Partitioning for Parallel Position Based Dynamics</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/eg2015/</link>
+      <link>https://mfratarcangeli.github.io/publication/eg2015/</link>
       <pubDate>Thu, 01 Oct 2015 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/eg2015/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/eg2015/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Fast Rendering of Image Mosaics and ASCII Art</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cgf2015b/</link>
+      <link>https://mfratarcangeli.github.io/publication/cgf2015b/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cgf2015b/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cgf2015b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Position-Based Skinning for Soft Articulated Characters</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cgf2015a/</link>
+      <link>https://mfratarcangeli.github.io/publication/cgf2015a/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cgf2015a/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cgf2015a/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>A GPU-Based Implementation of Position Based Dynamics for Interactive Deformable Bodies</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/jgt2015/</link>
+      <link>https://mfratarcangeli.github.io/publication/jgt2015/</link>
       <pubDate>Wed, 01 Jul 2015 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/jgt2015/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/jgt2015/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Position‐based facial animation synthesis</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cav2012/</link>
+      <link>https://mfratarcangeli.github.io/publication/cav2012/</link>
       <pubDate>Fri, 11 May 2012 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cav2012/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cav2012/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>A 3D simulator of multiple legged robots based on USARSim</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/robocup2006/</link>
+      <link>https://mfratarcangeli.github.io/publication/robocup2006/</link>
       <pubDate>Tue, 01 May 2007 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/robocup2006/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/robocup2006/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title>Facial motion cloning with radial basis functions in MPEG-4 FBA</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/gmod2006/</link>
+      <link>https://mfratarcangeli.github.io/publication/gmod2006/</link>
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/gmod2006/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/gmod2006/</guid>
       <description>   </description>
     </item>
     

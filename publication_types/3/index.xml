@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 on Marco Fratarcangeli</title>
-    <link>http://www.cse.chalmers.se/~marcof/publication_types/3/</link>
+    <link>https://mfratarcangeli.github.io/publication_types/3/</link>
     <description>Recent content in 3 on Marco Fratarcangeli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Fri, 01 Nov 2019 09:42:39 +0200</lastBuildDate>
     
-	<atom:link href="http://www.cse.chalmers.se/~marcof/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mfratarcangeli.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title> Personalized Avatars for Real-time Virtual Try-on</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sa2019rtl/</link>
+      <link>https://mfratarcangeli.github.io/publication/sa2019rtl/</link>
       <pubDate>Fri, 01 Nov 2019 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sa2019rtl/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sa2019rtl/</guid>
       <description>   </description>
     </item>
     
     <item>
       <title> Parallel iterative solvers for real-time elastic deformations</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sa2018course/</link>
+      <link>https://mfratarcangeli.github.io/publication/sa2018course/</link>
       <pubDate>Sat, 01 Dec 2018 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sa2018course/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sa2018course/</guid>
       <description></description>
     </item>
     

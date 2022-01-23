@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Fratarcangeli on Marco Fratarcangeli</title>
-    <link>http://www.cse.chalmers.se/~marcof/</link>
+    <link>https://mfratarcangeli.github.io/</link>
     <description>Recent content in Marco Fratarcangeli on Marco Fratarcangeli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>&amp;copy; 2022</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/~marcof/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fast Analytical Motion Blur with Transparency</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/cag2021/</link>
+      <link>https://mfratarcangeli.github.io/publication/cag2021/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/cag2021/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/cag2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast Nonlinear Least Squares Optimization of Large-scale Semi-sparse Problems</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/eg2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/eg2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/eg2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/eg2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive Sculpting of Digital Faces Using an Anatomical Modeling Paradigm</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sgp2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/sgp2020/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sgp2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sgp2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive Assembly and Animation of 3D Digital Garments</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/eg2020s/</link>
+      <link>https://mfratarcangeli.github.io/publication/eg2020s/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/eg2020s/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/eg2020s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Medial Elastics: Efficient and Collision-ready Deformation via Medial Axis Transform</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/tog2020/</link>
+      <link>https://mfratarcangeli.github.io/publication/tog2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/tog2020/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/tog2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Task-based Colormap Design Supporting Visual Comprehension in Process Tomography</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/ev2020s/</link>
+      <link>https://mfratarcangeli.github.io/publication/ev2020s/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/ev2020s/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/ev2020s/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Personalized Avatars for Real-time Virtual Try-on</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sa2019rtl/</link>
+      <link>https://mfratarcangeli.github.io/publication/sa2019rtl/</link>
       <pubDate>Fri, 01 Nov 2019 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sa2019rtl/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sa2019rtl/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/mtIKaMvj4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -82,20 +82,20 @@
     
     <item>
       <title> Parallel iterative solvers for real-time elastic deformations</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/sa2018course/</link>
+      <link>https://mfratarcangeli.github.io/publication/sa2018course/</link>
       <pubDate>Sat, 01 Dec 2018 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/sa2018course/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/sa2018course/</guid>
       <description>&lt;hr /&gt;
 </description>
     </item>
     
     <item>
       <title>Parallel Multigrid for Nonlinear Cloth Simulation</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/pg2018/</link>
+      <link>https://mfratarcangeli.github.io/publication/pg2018/</link>
       <pubDate>Fri, 31 Aug 2018 09:42:39 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/pg2018/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/pg2018/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/EwrB2HQcZh4&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -108,10 +108,10 @@
     
     <item>
       <title>List of students</title>
-      <link>http://www.cse.chalmers.se/~marcof/liststudents/</link>
+      <link>https://mfratarcangeli.github.io/liststudents/</link>
       <pubDate>Mon, 07 May 2018 18:13:33 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/liststudents/</guid>
+      <guid>https://mfratarcangeli.github.io/liststudents/</guid>
       <description>
 
 &lt;h2 id=&#34;master-students&#34;&gt;Master Students&lt;/h2&gt;
@@ -269,10 +269,10 @@ Modellazione e Simulazione di Legged Robot con USARSim&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Parallel Algorithms for Interactive Simulations of 3D Soft Tissues</title>
-      <link>http://www.cse.chalmers.se/~marcof/project/stint2018/</link>
+      <link>https://mfratarcangeli.github.io/project/stint2018/</link>
       <pubDate>Thu, 03 May 2018 14:08:38 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/project/stint2018/</guid>
+      <guid>https://mfratarcangeli.github.io/project/stint2018/</guid>
       <description>&lt;p&gt;Simulations of soft bodies (e.g., surgical threads, different kinds of human tissues or organs), which are at the same time interactive and accurate. For instance, in a virtual surgical simulation system, soft tissues need to be manipulated by the medical students in real-time to deliver a realistic and useful learning experience. We intend to initiate a collaboration between Chalmers University of Technology (CTH) and University of New Mexico (UNM) to develop a technology which will result in an affordable simulation platform from both a financial and a computational point of view, and will be suitable for large-scale, geometry-complex, and nonlinear deformable models useful in the medical, and more in general, industrial areas.&lt;/p&gt;
 
 &lt;p&gt;The project also forms an ideal education platform for both CTH and UNM. Our education objective is to leverage the project to enrich and innovate the existing colleague Computer Science education. By participating the project, graduate students will have an in-depth understanding and hand-on experiences of how to analyze a real-world problem, how to convert using math and physics and build a model so that a computer can assist, how to solve the problem numerically, and how to render the result interactively on the screen.&lt;/p&gt;
@@ -281,20 +281,20 @@ Modellazione e Simulazione di Legged Robot con USARSim&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Accurate Elastic Bodies in Real-time</title>
-      <link>http://www.cse.chalmers.se/~marcof/talk/unm2018/</link>
+      <link>https://mfratarcangeli.github.io/talk/unm2018/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/talk/unm2018/</guid>
+      <guid>https://mfratarcangeli.github.io/talk/unm2018/</guid>
       <description>&lt;p&gt;Invited by Yin Yang&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Fast Quadrangular Mass-Spring Systems using Red-Black Ordering</title>
-      <link>http://www.cse.chalmers.se/~marcof/publication/vriphys2018/</link>
+      <link>https://mfratarcangeli.github.io/publication/vriphys2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/publication/vriphys2018/</guid>
+      <guid>https://mfratarcangeli.github.io/publication/vriphys2018/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/q7YoLsI9pto&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34; title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -307,20 +307,20 @@ Modellazione e Simulazione di Legged Robot con USARSim&lt;/p&gt;&lt;/li&gt;
     
     <item>
       <title>Fast, Interactive Deformable Bodies</title>
-      <link>http://www.cse.chalmers.se/~marcof/talk/iccv2017/</link>
+      <link>https://mfratarcangeli.github.io/talk/iccv2017/</link>
       <pubDate>Mon, 30 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/talk/iccv2017/</guid>
+      <guid>https://mfratarcangeli.github.io/talk/iccv2017/</guid>
       <description>&lt;p&gt;Invited by Fiora Pirri.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Sustainability in the digital world</title>
-      <link>http://www.cse.chalmers.se/~marcof/talk/is4si2017/</link>
+      <link>https://mfratarcangeli.github.io/talk/is4si2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0200</pubDate>
       
-      <guid>http://www.cse.chalmers.se/~marcof/talk/is4si2017/</guid>
+      <guid>https://mfratarcangeli.github.io/talk/is4si2017/</guid>
       <description></description>
     </item>
     
